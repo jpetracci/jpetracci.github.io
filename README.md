@@ -1,4 +1,4 @@
 jpetracci.github.io
 ===================
 
-personal website
+personal website, nothing special
