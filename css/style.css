@@ -1,0 +1,47 @@
+
+dy {
+    margin: 0px;
+    padding: 0px;
+}
+
+.site {
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
+
+.sidebar {
+    float: left;
+    width: 10em;
+}
+
+.sidebar_list {
+    list-style-type: none;
+}
+
+.sidebar_list a {
+    text-decoration: none;
+    color: black;
+}
+
+.sidebar_list a:link {
+    text-decoration:none;
+}
+
+.sidebar_list a:visited {
+    text-decoration:none;
+}
+
+.sidebar_list a:hover {
+    text-decoration:underline;
+}
+
+.content {
+    margin-left: 10em;
+    min-height: 20em;
+}
+
+.footer {
+    text-align: center;
+}
+
