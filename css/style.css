@@ -1,6 +1,11 @@
-body {
+* {
     margin: 0px;
-    padding: 0px;
+    padding: 0px;    
+}
+
+body {
+    background-color: #eee;
+    color: #333;
 }
 
 .site {
@@ -11,11 +16,14 @@ body {
 
 .sidebar {
     float: left;
-    width: 10em;
+    width: 100px;
+    padding-top: 30px;
+    padding-right: 30px;
 }
 
 .sidebar_list {
     list-style-type: none;
+    text-align: right;
 }
 
 .sidebar_list a {
@@ -36,11 +44,10 @@ body {
 }
 
 .content {
-    margin-left: 10em;
-    min-height: 20em;
+    margin-left: 150px;
+    min-height: 200px;
 }
 
 .footer {
     text-align: center;
 }
-
