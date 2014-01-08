@@ -1,3 +1,4 @@
+
 * {
     margin: 0px;
     padding: 0px;    
@@ -21,6 +22,19 @@ body {
     padding-right: 30px;
 }
 
+.sidebar a {
+    text-decoration: none;
+}
+
+.sidebar a:link {
+    text-decoration:none;
+}
+
+.sidebar a:visited {
+    text-decoration:none;
+    color: #333;
+}
+
 .sidebar_list {
     list-style-type: none;
     text-align: right;
@@ -28,7 +42,6 @@ body {
 
 .sidebar_list a {
     text-decoration: none;
-    color: black;
 }
 
 .sidebar_list a:link {
@@ -51,3 +64,14 @@ body {
 .footer {
     text-align: center;
 }
+
+.brief_about {
+    padding-top: 3em;
+}
+
+.brief_projects h1 {
+    padding-top: 1em;
+    font-size: 16pt;
+    padding-bottom: 5px;
+}
+
