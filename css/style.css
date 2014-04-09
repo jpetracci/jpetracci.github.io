@@ -55,6 +55,10 @@ body {
     text-decoration:underline;
 }
 
+.sidebar_list a[href^="mailto"] { 
+    color: #333; 
+}
+
 .content {
     margin-left: 150px;
     min-height: 200px;
