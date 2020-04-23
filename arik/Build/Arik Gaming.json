@@ -1,0 +1,13 @@
+{
+"companyName": "Arik Gaming",
+"productName": "BLOCK DODGE",
+"dataUrl": "Arik Gaming.data.unityweb",
+"asmCodeUrl": "Arik Gaming.asm.code.unityweb",
+"asmMemoryUrl": "Arik Gaming.asm.memory.unityweb",
+"asmFrameworkUrl": "Arik Gaming.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080"
+}
