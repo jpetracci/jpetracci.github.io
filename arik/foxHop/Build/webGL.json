@@ -1,0 +1,17 @@
+{
+"companyName": "Arik Gaming",
+"productName": "Fox Hop",
+"productVersion": "0.1",
+"dataUrl": "webGL.data.unityweb",
+"wasmCodeUrl": "webGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "webGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "webGL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
